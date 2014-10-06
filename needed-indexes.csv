@@ -1,0 +1,4 @@
+"database"	"tablename"	"table_scans"	"index_scans"	"table_size"	"write_activity"
+"breakpad"	"crash_adu_by_build_signature"	17808	0	"47 MB"	2560248
+"breakpad"	"server_status"	931680	1923993	"36 MB"	101459
+"breakpad"	"product_adu"	2487	1959	"33 MB"	70247

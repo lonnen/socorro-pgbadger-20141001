@@ -1,0 +1,6 @@
+"database"	"backends"	"commits_diff"	"rollbacks_diff"	"blocks_read_diff"	"blocks_hit_diff"	"tuples_returned_diff"	"tuples_fetched_diff"	"tuples_inserted_dif"	"tuples_updated_dif"	"tuples_deleted_diff"	"conflicts_diff"
+"postgres"	0	806	1	5	23428	101058	8229	0	0	0	0
+"template0"	0	0	0	0	0	0	0	0	0	0	0
+"breakpad"	31	183145	5431	6192702	52335798	347930192	125549532	1506172	173175	4611	0
+"template1"	0	378	0	0	9730	93324	2142	0	0	0	0
+"test"	0	280	0	0	8260	93100	1540	0	0	0	0

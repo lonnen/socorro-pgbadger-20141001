@@ -1,0 +1,14 @@
+"db_name"	"schema_name"	"table_name"	"index_name"	"index_mb"	"idx_bloat"	"wasted_mb"
+"breakpad"	"public"	"tcbs"	"tcbs_key"	5109	40	1398
+"breakpad"	"public"	"signature_products_rollup"	"signature_products_rollup_key"	1166	90	537
+"breakpad"	"public"	"raw_crashes_20131125"	"raw_crashes_20131125_uuid"	112	40	29
+"breakpad"	"public"	"crashes_by_user"	"crashes_by_user_key"	76	50	24
+"breakpad"	"public"	"sessions"	"session_id_pkey"	23	9670	22
+"breakpad"	"public"	"crashes_in_es"	"crashes_in_es_idx"	45	40	13
+"breakpad"	"public"	"crashes_by_user_build"	"crashes_by_user_build_key"	26	50	8
+"breakpad"	"public"	"explosiveness"	"explosiveness_key"	8	1130	7
+"breakpad"	"public"	"releases_raw"	"release_raw_key"	14	100	7
+"breakpad"	"public"	"product_adu"	"product_adu_key"	17	50	5
+"breakpad"	"public"	"explosiveness"	"explosiveness_signature_id"	6	840	5
+"breakpad"	"public"	"explosiveness"	"explosiveness_product_version_id"	5	630	4
+"breakpad"	"public"	"build_adu"	"build_adu_key"	6	80	3
